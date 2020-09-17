@@ -1,2 +1,2 @@
 # Proyecto Admin Spring Boot
-Proyecto para visualizar las metrícas del cliente, ver el proyecto DemoSpringBoot 
+Proyecto para visualizar las métricas del cliente, ver el proyecto DemoSpringBoot 
