@@ -3,5 +3,5 @@ Proyecto para visualizar las métricas del cliente, ver el proyecto DemoSpringBo
 
 ## Version
 * Java 17
-* Spring Boot, versión 3.0.6
-* spring Boot Admin, version 3.0.4
+* Spring Boot, versión 3.1.3
+* spring Boot Admin, version 3.2.1
